@@ -24,3 +24,4 @@ export default defineConfig({
     exclude: ['@fedimint/core-web'],
   },
 })
+
